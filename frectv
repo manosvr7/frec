@@ -15,8 +15,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5668
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5667
 #EXTINF:-1,France 5 FHD FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5666
-#EXTINF:-1,France O HD FR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5664
 #EXTINF:-1,M6 FHD FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5653
 #EXTINF:-1,M6 HD FR
@@ -67,6 +65,8 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5600
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5620
 #EXTINF:-1,TFX FHD FR
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50868
+#EXTINF:-1,France O HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5664
 #EXTINF:-1,------- Sports -------
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678947
 #EXTINF:-1,RMC Sport News HD FR

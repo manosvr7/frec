@@ -203,6 +203,31 @@ https://vod.streams.ovh:3876/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/8YzoXFJ.png",PLAY TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/y3pUxXe.png",MESSATIDA TV
+#EXTINF:-1,Nova Cinema Action HD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4156
+#EXTINF:-1,Nova Premiere 1 HD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/3629
+#EXTINF:-1,Nova Premiere 2 HD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/3630
+#EXTINF:-1,Nova Premiere 3 HD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/3631
+#EXTINF:-1,Nova Premiere 4 HD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/3632
+#EXTINF:-1,Discovery ShowCase HD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/3773
+#EXTINF:-1,Discovery ID HD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4154
+#EXTINF:-1,Animal Planet FHD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/3624
+#EXTINF:-1,Cosmote History HD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4152
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/3626
+#EXTINF:-1,DisneyXD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4141
+#EXTINF:-1,DisneyXD HD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4140
+#EXTINF:-1,BabyTV FHD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/4142
 https://vod.streams.ovh:3037/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/cdT9deo.jpg",XALASTRA TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8

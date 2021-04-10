@@ -265,122 +265,134 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
 
-#EXTINF:0 tvg-id="TF1.fr" group-title="??| ALKASS SPORT |??",|FR| TF1
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9211
-#EXTINF:0 tvg-id="TF1.fr" group-title="??| ALKASS SPORT |??",|FR| TF1 HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/15121
-#EXTINF:0 tvg-id="TF1.fr" group-title="??| ALKASS SPORT |??",|FR| TF1 FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9210
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| TF1 4K
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/62897
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| TF1+1
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/51178
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| TF1+1 FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/51179
-#EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="??| ALKASS SPORT |??",|FR| TF1 SERIES FILMS
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/51148
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| TF1 SERIES FILMS HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/51169
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| TF1 SERIES FILMS FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/51172
-#EXTINF:0 tvg-id="France2.fr" group-title="??| ALKASS SPORT |??",|FR| FRANCE 2
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9277
-#EXTINF:0 tvg-id="France2.fr" group-title="??| ALKASS SPORT |??",|FR| FRANCE 2 HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/15226
-#EXTINF:0 tvg-id="France2.fr" group-title="??| ALKASS SPORT |??",|FR| FRANCE 2 FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9546
-#EXTINF:0 tvg-id="France3.fr" group-title="??| ALKASS SPORT |??",|FR| FRANCE 3
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9276
-#EXTINF:0 tvg-id="France3.fr" group-title="??| ALKASS SPORT |??",|FR| FRANCE 3 HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/15169
-#EXTINF:0 tvg-id="France3.fr" group-title="??| ALKASS SPORT |??",|FR| FRANCE 3 FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9545
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| FRANCE 3 FHD BKP
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/51177
-#EXTINF:0 tvg-id="France4.fr" group-title="??| ALKASS SPORT |??",|FR| FRANCE 4
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9274
-#EXTINF:0 tvg-id="France4.fr" group-title="??| ALKASS SPORT |??",|FR| FRANCE 4 HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/15168
-#EXTINF:0 tvg-id="France4.fr" group-title="??| ALKASS SPORT |??",|FR| FRANCE 4 FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9544
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| FRANCE 4 FHD BKP
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/51176
-#EXTINF:0 tvg-id="France5.fr" group-title="??| ALKASS SPORT |??",|FR| FRANCE 5
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9273
-#EXTINF:0 tvg-id="France5.fr" group-title="??| ALKASS SPORT |??",|FR| FRANCE 5 HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/15167
-#EXTINF:0 tvg-id="France5.fr" group-title="??| ALKASS SPORT |??",|FR| FRANCE 5 FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9543
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| FRANCE 5 FHD BKP
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/51175
-#EXTINF:0 tvg-id="M6.fr" group-title="??| ALKASS SPORT |??",|FR| M6
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9260
-#EXTINF:0 tvg-id="M6.fr" group-title="??| ALKASS SPORT |??",|FR| M6 HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/15154
-#EXTINF:0 tvg-id="M6.fr" group-title="??| ALKASS SPORT |??",|FR| M6 FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9531
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| M6 FHD BKP
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/51174
-#EXTINF:0 tvg-id="ARTE.fr" group-title="??| ALKASS SPORT |??",|FR| ARTE
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9354
-#EXTINF:0 tvg-id="ARTE.fr" group-title="??| ALKASS SPORT |??",|FR| ARTE HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/15212
-#EXTINF:0 tvg-id="ARTE.fr" group-title="??| ALKASS SPORT |??",|FR| ARTE FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9590
-#EXTINF:0 tvg-id="C8.fr" group-title="??| ALKASS SPORT |??",|FR| C8
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9293
-#EXTINF:0 tvg-id="C8.fr" group-title="??| ALKASS SPORT |??",|FR| C8 HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/15232
-#EXTINF:0 tvg-id="C8.fr" group-title="??| ALKASS SPORT |??",|FR| C8 FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9574
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| C8 FHD BKP
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/51171
-#EXTINF:0 tvg-id="W9.fr" group-title="??| ALKASS SPORT |??",|FR| W9
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9372
-#EXTINF:0 tvg-id="W9.fr" group-title="??| ALKASS SPORT |??",|FR| W9 HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/15111
-#EXTINF:0 tvg-id="W9.fr" group-title="??| ALKASS SPORT |??",|FR| W9 FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9488
-#EXTINF:0 tvg-id="TFX.fr" group-title="??| ALKASS SPORT |??",|FR| TFX
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/50639
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| TFX HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/50640
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| TFX FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/50641
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| TFX FHD BKP
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/51168
-#EXTINF:0 tvg-id="CStar.fr" group-title="??| ALKASS SPORT |??",|FR| CSTAR
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/15182
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| CSTAR HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9561
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| CSTAR FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/51151
-#EXTINF:0 tvg-id="FranceO.fr" group-title="??| ALKASS SPORT |??",|FR| FRANCE O
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9272
-#EXTINF:0 tvg-id="FranceO.fr" group-title="??| ALKASS SPORT |??",|FR| FRANCE O HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/15165
-#EXTINF:0 tvg-id="FranceO.fr" group-title="??| ALKASS SPORT |??",|FR| FRANCE O FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9542
-#EXTINF:0 tvg-id="6ter.fr" group-title="??| ALKASS SPORT |??",|FR| 6TER
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9364
-#EXTINF:0 tvg-id="6ter.fr" group-title="??| ALKASS SPORT |??",|FR| 6TER HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/15216
-#EXTINF:0 tvg-id="6ter.fr" group-title="??| ALKASS SPORT |??",|FR| 6TER FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9595
-#EXTINF:0 tvg-id="Cherie25.fr" group-title="??| ALKASS SPORT |??",|FR| CHERIE 25
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9313
-#EXTINF:0 tvg-id="Cherie25.fr" group-title="??| ALKASS SPORT |??",|FR| CHERIE 25 HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/15188
-#EXTINF:0 tvg-id="Cherie25.fr" group-title="??| ALKASS SPORT |??",|FR| CHERIE 25 FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9572
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| PARIS PREMIERE FHD BKP
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/51129
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| ARTE FHD BKP
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/51154
-#EXTINF:0 tvg-id="CANALplus.fr" group-title="??| ALKASS SPORT |??",|FR| CANAL SD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/32155
-#EXTINF:0 tvg-id="CANALplus.fr" group-title="??| ALKASS SPORT |??",|FR| CANAL HD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9324
-#EXTINF:0 tvg-id="CANALplus.fr" group-title="??| ALKASS SPORT |??",|FR| CANAL FHD
-http://vip.one-iptv.com:25443/MAGLNUIyeBjhf/Oa4QbwMxbs/9579
-#EXTINF:0 tvg-id="ext" group-title="??| ALKASS SPORT |??",|FR| CANAL FHD H265
+#EXTINF:0 tvg-id="TF1.fr" group-title="??| BEIN SPORT |??",|FR| TF1
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9211
+#EXTINF:0 tvg-id="TF1.fr" group-title="??| BEIN SPORT |??",|FR| TF1 HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15121
+#EXTINF:0 tvg-id="TF1.fr" group-title="??| BEIN SPORT |??",|FR| TF1 FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9210
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| TF1 4K
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/62897
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| TF1+1
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/51178
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| TF1+1 FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/51179
+#EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="??| BEIN SPORT |??",|FR| TF1 SERIES FILMS
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/51148
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| TF1 SERIES FILMS HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/51169
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| TF1 SERIES FILMS FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/51172
+#EXTINF:0 tvg-id="France2.fr" group-title="??| BEIN SPORT |??",|FR| FRANCE 2
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9277
+#EXTINF:0 tvg-id="France2.fr" group-title="??| BEIN SPORT |??",|FR| FRANCE 2 HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15226
+#EXTINF:0 tvg-id="France2.fr" group-title="??| BEIN SPORT |??",|FR| FRANCE 2 FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9546
+#EXTINF:0 tvg-id="France3.fr" group-title="??| BEIN SPORT |??",|FR| FRANCE 3
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9276
+#EXTINF:0 tvg-id="France3.fr" group-title="??| BEIN SPORT |??",|FR| FRANCE 3 HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15169
+#EXTINF:0 tvg-id="France3.fr" group-title="??| BEIN SPORT |??",|FR| FRANCE 3 FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9545
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| FRANCE 3 FHD BKP
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/51177
+#EXTINF:0 tvg-id="France4.fr" group-title="??| BEIN SPORT |??",|FR| FRANCE 4
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9274
+#EXTINF:0 tvg-id="France4.fr" group-title="??| BEIN SPORT |??",|FR| FRANCE 4 HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15168
+#EXTINF:0 tvg-id="France4.fr" group-title="??| BEIN SPORT |??",|FR| FRANCE 4 FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9544
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| FRANCE 4 FHD BKP
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/51176
+#EXTINF:0 tvg-id="France5.fr" group-title="??| BEIN SPORT |??",|FR| FRANCE 5
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9273
+#EXTINF:0 tvg-id="France5.fr" group-title="??| BEIN SPORT |??",|FR| FRANCE 5 HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15167
+#EXTINF:0 tvg-id="France5.fr" group-title="??| BEIN SPORT |??",|FR| FRANCE 5 FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9543
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| FRANCE 5 FHD BKP
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/51175
+#EXTINF:0 tvg-id="M6.fr" group-title="??| BEIN SPORT |??",|FR| M6
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9260
+#EXTINF:0 tvg-id="M6.fr" group-title="??| BEIN SPORT |??",|FR| M6 HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15154
+#EXTINF:0 tvg-id="M6.fr" group-title="??| BEIN SPORT |??",|FR| M6 FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9531
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| M6 FHD BKP
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/51174
+#EXTINF:0 tvg-id="ARTE.fr" group-title="??| BEIN SPORT |??",|FR| ARTE
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9354
+#EXTINF:0 tvg-id="ARTE.fr" group-title="??| BEIN SPORT |??",|FR| ARTE HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15212
+#EXTINF:0 tvg-id="ARTE.fr" group-title="??| BEIN SPORT |??",|FR| ARTE FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9590
+#EXTINF:0 tvg-id="C8.fr" group-title="??| BEIN SPORT |??",|FR| C8
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9293
+#EXTINF:0 tvg-id="C8.fr" group-title="??| BEIN SPORT |??",|FR| C8 HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15232
+#EXTINF:0 tvg-id="C8.fr" group-title="??| BEIN SPORT |??",|FR| C8 FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9574
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| C8 FHD BKP
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/51171
+#EXTINF:0 tvg-id="W9.fr" group-title="??| BEIN SPORT |??",|FR| W9
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9372
+#EXTINF:0 tvg-id="W9.fr" group-title="??| BEIN SPORT |??",|FR| W9 HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15111
+#EXTINF:0 tvg-id="W9.fr" group-title="??| BEIN SPORT |??",|FR| W9 FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9488
+#EXTINF:0 tvg-id="TFX.fr" group-title="??| BEIN SPORT |??",|FR| TFX
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/50639
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| TFX HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/50640
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| TFX FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/50641
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| TFX FHD BKP
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/51168
+#EXTINF:0 tvg-id="CStar.fr" group-title="??| BEIN SPORT |??",|FR| CSTAR
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15182
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| CSTAR HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9561
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| CSTAR FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/51151
+#EXTINF:0 tvg-id="FranceO.fr" group-title="??| BEIN SPORT |??",|FR| FRANCE O
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9272
+#EXTINF:0 tvg-id="FranceO.fr" group-title="??| BEIN SPORT |??",|FR| FRANCE O HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15165
+#EXTINF:0 tvg-id="FranceO.fr" group-title="??| BEIN SPORT |??",|FR| FRANCE O FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9542
+#EXTINF:0 tvg-id="6ter.fr" group-title="??| BEIN SPORT |??",|FR| 6TER
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9364
+#EXTINF:0 tvg-id="6ter.fr" group-title="??| BEIN SPORT |??",|FR| 6TER HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15216
+#EXTINF:0 tvg-id="6ter.fr" group-title="??| BEIN SPORT |??",|FR| 6TER FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9595
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="??| BEIN SPORT |??",|FR| CHERIE 25
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9313
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="??| BEIN SPORT |??",|FR| CHERIE 25 HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15188
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="??| BEIN SPORT |??",|FR| CHERIE 25 FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9572
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| PARIS PREMIERE FHD BKP
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/51129
+#EXTINF:0 tvg-id="ext" group-title="??| BEIN SPORT |??",|FR| ARTE FHD BKP
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/51154
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="??| BEIN SPORT |??",|FR| NRJ12
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15142
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="??| BEIN SPORT |??",|FR|  NRJ12 HD.
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9366
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="??| BEIN SPORT |??",|FR| NRJ12 FULL HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9521
+#EXTINF:0 tvg-id="TV5MondeFBS.fr" group-title="??| BEIN SPORT |??",|FR| TV5 MONDE FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/51170
+#EXTINF:0 tvg-id="Teva.fr" group-title="??| BEIN SPORT |??",|FR| TEVA FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9212
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="??| BEIN SPORT |??",|FR| PARIS PREMIERE
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15137
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="??| BEIN SPORT |??",|FR| PARIS PREMIERE FHD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9238
+#EXTINF:0 tvg-id="RTL9.fr" group-title="??| BEIN SPORT |??",|FR| RTL9
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/9374
+#EXTINF:0 tvg-id="RTL9.fr" group-title="??| BEIN SPORT |??",|FR| RTL9 HD
+http://npro.one-iptv.com:25443/MAGPMHZlUwsJE/W5aylbWI9N/15130
+#EXTINF:0 tvg-id="RTL9.fr" group-title="??| BEIN SPORT |??",|FR| RTL9 FHD

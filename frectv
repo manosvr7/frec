@@ -524,33 +524,107 @@ http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/841
 #EXTINF:0 tvg-id="ext" group-title="Channels",|FR| Rmc Sport 4 4K+
 http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/842
 
-#EXTINF:0 tvg-id="ext" group-title="OTE Group",VIP GR: Nova Sports 1HD
-http://livegopanel.club:8080/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/26481
-#EXTINF:0 tvg-id="ext" group-title="OTE Group",VIP GR: Nova Sports 2HD
-http://livegopanel.club:8080/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/26482
-#EXTINF:0 tvg-id="ext" group-title="OTE Group",VIP GR: Nova Sports 3HD
-http://livegopanel.club:8080/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/26483
-#EXTINF:0 tvg-id="ext" group-title="OTE Group",VIP GR: Nova Sports 4HD
-http://livegopanel.club:8080/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/26484
-#EXTINF:0 tvg-id="ext" group-title="OTE Group",VIP GR: Nova Sports 5HD
-http://livegopanel.club:8080/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/26485
-#EXTINF:0 tvg-id="ext" group-title="OTE Group",VIP GR: Cosmote Sports Highlights HD
-http://livegopanel.club:8080/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/13721
-#EXTINF:0 tvg-id="ext" group-title="OTE Group",VIP GR: Cosmote Sport 1 HD
-http://livegopanel.club:8080/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/22430
-#EXTINF:0 tvg-id="ext" group-title="OTE Group",VIP GR: Cosmote Sport 2 HD
-http://livegopanel.club:8080/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/22429
-#EXTINF:0 tvg-id="ext" group-title="OTE Group",VIP GR: Cosmote Sport 3 HD
-http://livegopanel.club:8080/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/22428
-#EXTINF:0 tvg-id="ext" group-title="OTE Group",VIP GR: Cosmote Sport 4 HD
-http://livegopanel.club:8080/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/22427
-#EXTINF:0 tvg-id="ext" group-title="OTE Group",VIP GR: Cosmote Sport 5 HD
-http://livegopanel.club:8080/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/22426
-#EXTINF:0 tvg-id="ext" group-title="OTE Group",VIP GR: Cosmote Sport 6 HD
-http://livegopanel.club:8080/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/22425
-#EXTINF:0 tvg-id="ext" group-title="OTE Group",VIP GR: Cosmote Sport 7 HD
-http://livegopanel.club:8080/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/22424
-#EXTINF:0 tvg-id="ext" group-title="OTE Group",VIP GR: Cosmote Sport 8 HD
-http://livegopanel.club:8080/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/22423
-#EXTINF:0 tvg-id="ext" group-title="OTE Group",VIP GR: Cosmote Sport 9 HD
-http://livegopanel.club:8080/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/27950
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| ERT 1
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15208
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| ERT 2
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15214
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| ERT 3
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15219
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Fox 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15220
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Fox Life HD+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15222
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Mad Hits 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15224
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Mad TV HD+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15225
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Alpha TV 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15226
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| ANT1 HD+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15227
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Makedonia 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15228
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| EuroNews 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15229
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| E! 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15230
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Food Network 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15231
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Skai 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15232
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Kontra HD+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15235
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Star 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15236
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Nat Geo Wild HD+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15237
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| National Geo HD+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15238
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| History HD+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15239
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Net TV Toronto
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15240
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Rik Sat CY
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15242
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| TLC
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15244
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| KPHTH TV
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15246
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Kanali Voulis
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15247
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| TV 100
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15248
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Open Beyond HD+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15250
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Channel 9
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15251
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Sigma TV
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15252
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Mega HD+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15254
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| 4E TV
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15257
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| EPT SPORT HD+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15259
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Cinema 1 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15260
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Cinema 2 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15262
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Cinema 4 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15263
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Nova Premiere 1 HD+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15265
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| nova premiere 3 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15266
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Nova Premiere 2 HD+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15267
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Nova Premiere 4 HD+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15268
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Nova Sport 1 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15269
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Nova Sport 2 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15270
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Nova Sport 3 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15272
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport Highlights 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15274
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 1 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15275
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 2 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15276
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 3 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15277
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 4 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15278
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 5 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15279
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 6 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15280
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 7 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15282
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 8 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15283
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 9 4K+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15285
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Eurosport 1 HD+
+http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15286

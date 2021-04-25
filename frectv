@@ -590,3 +590,31 @@ http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15269
 http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15270
 #EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Nova Sport 3 4K+
 http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15272
+
+#PLAYLIST:nova
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",NOVA SPORT 1 FHD
+http://ip365.cx:80/591479399642519/845556651954303/168432?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",NOVA SPORT 1 HD
+http://ip365.cx:80/591479399642519/845556651954303/17121?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",NOVA SPORT 1 HD
+http://x7hd.com:8888/z1331/1358096435/32292?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",NOVA SPORT 1 HD
+http://mhiptv.com:8888/11111111/11111111/32292?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",NOVA SPORT 2 HD
+http://x7hd.com:8888/z1331/1358096435/32293?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",NOVA SPORT 2 HD
+http://mhiptv.com:8888/11111111/11111111/32293?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",NOVA SPORT 3 HD
+http://ip365.cx:80/591479399642519/845556651954303/17119?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",NOVA SPORT 3 HD
+http://x7hd.com:8888/z1331/1358096435/32294?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",NOVA SPORT 3 HD
+http://mhiptv.com:8888/11111111/11111111/32294?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",NOVA SPORT 4 HD (During Live Matches)
+http://ip365.cx:80/591479399642519/845556651954303/17118?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",NOVA SPORTS 24 HD
+http://ip365.cx:80/591479399642519/845556651954303/118295?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",Nova Sport 1 HD
+http://176.119.25.104:28506/Imma/12345678/25260?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",Nova Sport 2 HD
+http://176.119.25.104:28506/Imma/12345678/25261?checkedby:iptvcat.net

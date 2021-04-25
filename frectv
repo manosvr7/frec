@@ -590,8 +590,6 @@ http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15269
 http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15270
 #EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Nova Sport 3 4K+
 http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15272
-
-#PLAYLIST:nova
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",NOVA SPORT 1 FHD
 http://ip365.cx:80/591479399642519/845556651954303/168432?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",NOVA SPORT 1 HD
